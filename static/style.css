@@ -1,0 +1,19 @@
+.header {
+    display: grid;
+    margin: 0px 50px;
+}
+
+.container {
+    display: grid;
+    margin: 25px 50px;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-rows: 1fr;
+}
+
+.block {
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+    
+}
