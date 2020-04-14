@@ -3,6 +3,24 @@
     margin: 0px 50px;
 }
 
+.main-nav {
+    display: flex;
+    list-style: none;
+    font-size: 0.7em;
+    margin: 0;
+    background-color: lavenderblush;
+}
+
+li {
+    padding: 20px 40px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
 .container {
     display: grid;
     margin: 25px 50px;
