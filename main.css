@@ -4125,8 +4125,8 @@ tbody.collapse.in {
 	float: right;
 	margin-right: 15px;
 	padding: 9px 10px;
-	margin-top: 8px;
-	margin-bottom: 8px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 	background-color: transparent;
 	background-image: none;
 	border: 1px solid transparent;
@@ -5630,12 +5630,6 @@ main {
 	margin-bottom: 0
 }
 
-.navbar-toggle {
-	margin-left: 15px;
-	float: left;
-	margin-right: 0
-}
-
 .template-example {
 	margin-bottom: 30px
 }
@@ -5680,6 +5674,3 @@ main {
 	float: left;
 	margin-right: 5px
 }
-
-
-/*# sourceMappingURL=main.85741bff.map*/
