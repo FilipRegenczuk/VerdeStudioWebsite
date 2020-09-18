@@ -3764,7 +3764,7 @@ tbody.collapse.in {
 }
 
 .nav>li>a {
-	padding: 5px 0
+	padding: 5px 20px
 }
 
 .nav>li>a:focus,
@@ -4196,8 +4196,8 @@ tbody.collapse.in {
 		float: left
 	}
 	.navbar-nav>li>a {
-		padding-top: 13px;
-		padding-bottom: 13px
+		padding-top: 26px;
+		padding-bottom: 26px
 	}
 }
 
@@ -4341,7 +4341,7 @@ tbody.collapse.in {
 }
 
 .navbar-default {
-	background-color: transparent;
+	background-color: white;
 	border-color: transparent
 }
 
@@ -5534,11 +5534,11 @@ main {
 	height: 100%
 }
 
-/* @media (min-width:768px) {
+@media (min-width:768px) {
 	main {
-		margin-left: 240px
+		margin-top: 50px
 	}
-} */
+}
 
 @media (min-width:992px) {
 	main {
@@ -5585,7 +5585,7 @@ main {
 
 .site-brand,
 .site-logo {
-	margin-bottom: 6px
+	margin: 6px 0px
 }
 
 .site-brand {
