@@ -4196,7 +4196,8 @@ tbody.collapse.in {
 		float: left
 	}
 	.navbar-nav>li>a {
-		padding: 30px 50px
+		padding: 10px 30px;
+    	margin: 20px 20px
 	}
 }
 
