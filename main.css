@@ -4196,8 +4196,7 @@ tbody.collapse.in {
 		float: left
 	}
 	.navbar-nav>li>a {
-		padding-top: 26px;
-		padding-bottom: 26px
+		padding: 30px 50px
 	}
 }
 
@@ -4342,7 +4341,7 @@ tbody.collapse.in {
 
 .navbar-default {
 	background-color: white;
-	border-color: transparent
+	border-color: #dedede
 }
 
 .navbar-default .navbar-brand {
@@ -5585,7 +5584,7 @@ main {
 
 .site-brand,
 .site-logo {
-	margin: 6px 0px
+	margin: 6px 6px
 }
 
 .site-brand {
